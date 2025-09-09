@@ -1,7 +1,7 @@
 # Standard-Reseller-Agreement-for-Marketplaces
 
 ## About Bonterms
-[Bonterms](https://bonterms.com/) is simplifying commercial contracting through Standard Agreements. Our [Standard Agreements](https://bonterms.com/#standard-agreements) let the parties start from a balanced foundation and negotiate by Cover Page, not redlines. The [Bonterms Platform](https://bonterms.com/platform/) leverages our Standard Agreements to take collaborative dealmaking to the next level. Bonterms is lawyer-led and funded by XYZ Capital and Wilson Sonsini.
+[Bonterms](https://bonterms.com/) is simplifying commercial contracting through Standard Agreements. Our [Standard Agreements](https://bonterms.com/#standard-agreements) let the parties start from a balanced foundation and negotiate by Cover Page, not redlines. The [Bonterms Platform](https://bonterms.com/platform/) leverages our Standard Agreements to take collaborative dealmaking to the next level. Bonterms is lawyer-led and funded by Next Coast Ventures, XYZ Capital and Wilson Sonsini.
 
 
 ## How to Use: Bonterms Standard End User Agreement
