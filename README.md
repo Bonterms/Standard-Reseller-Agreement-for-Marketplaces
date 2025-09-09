@@ -1,0 +1,1 @@
+# Standard-Reseller-Agreement-for-Marketplaces
